@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ahmed Attia
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Programming
+- 📫 How to reach me by email: ahmadyattia@gmail.com
